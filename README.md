@@ -1,16 +1,34 @@
-# jo
+Abdelkarim Rami
 
-A new Flutter project.
+03.04.2005
 
-## Getting Started
+Matrikelnr: 5515165
 
-This project is a starting point for a Flutter application.
+Abdelkarim.rami@mnd.thm.de
 
-A few resources to get you started if this is your first Flutter project:
+16.06.2024
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In diesem Flutter-Projekt wird eine Portfolio-App erstellt. 
+Hier ist eine kurze Erklärung, was Ich in den einzelnen Seiten gemacht habe:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+main Datei: Hier wird die App erstellt, die verschiedene Seiten enthält, die über definierte Routen navigiert werden können.
+
+Home Datei: Dieser Code erstellt die Startseite der App mit einem Titel, 
+            einem Seitenmenü und einem Hintergrund mit Farbverlauf. 
+            In der Mitte der Seite werden zwei Begrüßungstexte angezeigt.
+
+about_me Datei: Dieser Code erstellt die "Über mich"-Seite der App mit einer oberen Leiste, 
+                einem Seitenmenü und mehreren Abschnitten, die verschiedene persönliche und berufliche Interessen beschreiben.
+
+navi Datei: Dieser Code erstellt ein Navigationsmenü (Drawer) für die Flutter-App, das verschiedene Navigationsziele enthält. 
+            Jedes Ziel wird als eine eigene Kategorie angezeigt, 
+            und beim Antippen eines Listenelements wird die entsprechende Seite geöffnet und das Menü geschlossen.
+
+project Datei: Dieser Code erstellt die "Projekte"-Seite der App mit einer oberen Leiste, einem Seitenmenü und mehreren Projektabschnitten, die verschiedene Projekte beschreiben, die ich selbst gemacht habe. 
+                Jedes Projekt wird in einem farbigen Container mit Symbol, Titel und Beschreibung dargestellt.
+
+resume Datei: Dieser Code erstellt meinen Lebenslauf mit einer oberen Leiste, einem Seitenmenü und mehreren Abschnitten, die verschiedene persönliche Informationen, den schulischen Werdegang und meine Berufspraxis beschreiben. 
+            Jeder Abschnitt ist in einem Container mit einer Hintergrundfarbe und abgerundeten Ecken dargestellt.
+
+skills Datei: Dieser Code erstellt die Fähigkeiten Seite der App mit einer oberen Leiste, einem Seitenmenü und mehreren Abschnitten, die verschiedene Fähigkeiten beschreiben. 
+                Jeder Abschnitt ist in einem farbigen Container mit Symbol, Titel und einer Liste von Fähigkeiten dargestellt. Hier stehen einige meiner Fähigkeiten drinn.
