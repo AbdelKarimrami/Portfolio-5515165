@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "portfolioapp-neu-abdelkarim",
+          "appId": "1:528033703250:android:ace155bfc97b3fabc2068b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "portfolioapp-neu-abdelkarim",
+          "configurations": {
+            "android": "1:528033703250:android:ace155bfc97b3fabc2068b",
+            "ios": "1:528033703250:ios:eb0542b5b1a8c19cc2068b",
+            "macos": "1:528033703250:ios:eb0542b5b1a8c19cc2068b",
+            "web": "1:528033703250:web:4d2360232a77248ac2068b",
+            "windows": "1:528033703250:web:7f70c45d635466fbc2068b"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

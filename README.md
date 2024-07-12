@@ -1,6 +1,3 @@
-https://portfolioapp-neu-abdelkarim.web.app/#/home
-
-
 Abdelkarim Rami
 
 03.04.2005

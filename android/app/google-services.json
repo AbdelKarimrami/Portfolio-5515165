@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "528033703250",
+    "firebase_url": "https://portfolioapp-neu-abdelkarim-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "portfolioapp-neu-abdelkarim",
+    "storage_bucket": "portfolioapp-neu-abdelkarim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528033703250:android:ace155bfc97b3fabc2068b",
+        "android_client_info": {
+          "package_name": "com.Abdelkarim.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh1m-UxBYEFJBK2qe8lXAU2QdSdraFcKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
